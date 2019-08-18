@@ -1,0 +1,23 @@
+    
+student:
+  name: zs
+  age: 23
+  sex: true
+  birthday: 2019/02/12
+  location: 
+        province: 山西
+        city: 西安
+        zone: 莲湖
+  #{province: 山西,city: 西安,zone: 莲湖}
+  hobbies: [足球,篮球]
+         
+      #- 足球
+      #- 篮球        
+  skills: [计算机,数学]
+       
+      #- 计算机
+      #- 数学
+  pet:
+    nickName: haha
+    strain: 狗
+
